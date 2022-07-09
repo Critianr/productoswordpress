@@ -25,9 +25,9 @@ contraseña: toor
 ## Resultado final
 Inicio
 
-![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/Captura%20web.jpeg)
 
 
 Agregando elementos
 
-![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/agregando%20custom%20posst.jpeg)
