@@ -5,6 +5,8 @@ se podra importar desde la mismo dashboard de wordpress a continucion paso a pas
 
 base de datos sql general
 
+Subo todo el sistema de archivo como lo informan en los elementos de la prueba
+
 ###### Para ver solo el tema con sus funcionalidades sobre los puntos de la prueba ingrese en la siguiente ruta
 
 --->  https://github.com/Critianr/productoswordpress/tree/main/app/public/wp-content/themes/temaproducts
@@ -21,3 +23,11 @@ contraseña: toor
 ![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
 
 ## Resultado final
+Inicio
+
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
+
+
+Agregando elementos
+
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
