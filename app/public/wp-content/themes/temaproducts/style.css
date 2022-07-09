@@ -1,0 +1,14 @@
+/* 
+Template name: Tema Products
+Theme URI: https://github.com/Critianr
+Author: Cristian Camilo Rodriguez
+Author URI: https://github.com/Critianr
+Description: Crear un tema WordPress desde cero. • El tema mostrará una página la cual deberá cargar en una cuadricula un listado de 14 productos (cada producto ocupa su lugar en una celda de la cuadricula). • Cada producto deberá estar registrado como un elemento propio, dentro de un Custom Post Type llamado Productos. • Cada producto deberá estar compuesto por título, descripción, imagen destacada y valor. • El campo valor del producto, deberá ser un campo independiente, como un custom field. 
+Version: 1.0
+Tested up to: 7.4.1
+Requires PHP: 7.4.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
