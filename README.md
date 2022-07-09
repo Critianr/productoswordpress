@@ -7,7 +7,7 @@ base de datos sql general
 
 ###### Para ver solo el tema con sus funcionalidades sobre los puntos de la prueba ingrese en la siguiente ruta
 
----> 
+--->  https://github.com/Critianr/productoswordpress/tree/main/app/public/wp-content/themes/temaproducts
 
 ###### usuario y contraseña
 usuario: root
