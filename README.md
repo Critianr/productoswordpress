@@ -20,6 +20,4 @@ contraseña: toor
 
 ![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
 
-
-
-
+## Resultado final
