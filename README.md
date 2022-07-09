@@ -5,12 +5,20 @@ se podra importar desde la mismo dashboard de wordpress a continucion paso a pas
 
 base de datos sql general
 
+###### Para ver solo el tema con sus funcionalidades sobre los puntos de la prueba ingrese en la siguiente ruta
+
+---> 
+
+###### usuario y contraseña
+usuario: root
+contraseña: toor
+
 ## Importacion
-![Image text]()
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import.JPG)
 
  Ahora
- 
-![Image text]()
+
+![Image text](https://github.com/Critianr/productoswordpress/blob/main/assets/import1.JPG)
 
 
 
